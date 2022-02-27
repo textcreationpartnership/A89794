@@ -1,0 +1,510 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Napiers narration: or, an epitome of his booke on the Revelation. Wherein are divers miste[r]ies disclosed, touching the foure beasts, seven vials, seven trumpets, seven thunders, and seven angels, as also a discovery of Antichrist: together with very probable conjectures touching the the [sic] time of his destruction, and the end of the world. A subject very seasonable for these last times.</title>
+            <title>Plaine discovery of the whole Revelation of Saint John</title>
+            <author>Napier, John, 1550-1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89794</idno>
+            <idno type="STC">Wing N153</idno>
+            <idno type="STC">Thomason E144_7</idno>
+            <idno type="STC">ESTC R212729</idno>
+            <idno type="EEBO-CITATION">99871308</idno>
+            <idno type="PROQUEST">99871308</idno>
+            <idno type="VID">156618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156618)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Napiers narration: or, an epitome of his booke on the Revelation. Wherein are divers miste[r]ies disclosed, touching the foure beasts, seven vials, seven trumpets, seven thunders, and seven angels, as also a discovery of Antichrist: together with very probable conjectures touching the the [sic] time of his destruction, and the end of the world. A subject very seasonable for these last times.</title>
+                  <title>Plaine discovery of the whole Revelation of Saint John</title>
+                  <author>Napier, John, 1550-1617.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.O. and G.D. for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An abridgment of: Napier, John. A plaine discovery of the whole Revelation of Saint John.</note>
+                  <note>Wing has publication year 1641[2]; Thomason catalogue lists under 1642.</note>
+                  <note>In the title, the "r" in "misteries" has failed to print.</note>
+                  <note>Running title reads: An epitome of the Revelation.</note>
+                  <note>Signatures: A-C⁴ (C4 blank).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation --  Commentaries --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Revelation --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156618:1" rendition="simple:additions"/>
+            <p>NAPIERS NARRATION: OR, AN EPITOME OF HIS BOOKE ON THE REVELATION.</p>
+            <p>Wherein are divers <hi>Miſteries</hi> diſcloſed, touching the foure <hi>Beaſts,</hi> ſeven <hi>Vials,</hi> ſeven <hi>Trumpets,</hi> ſeven <hi>Thunders,</hi> and ſeven <hi>Angels,</hi> as alſo a diſcovery of <hi>Antichriſt:</hi> together with very probable conjectures touching the the time of his deſtruction, and the end of the WORLD.</p>
+            <p>
+               <hi>A Subject very ſeaſonable for theſe laſt Times.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>REVEL. 22.12.</hi>
+               </bibl>
+               <p>And behold I come ſhortly, and my reward is with me, to give to every man according as his worke ſhall be.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. O.</hi> and <hi>G. D.</hi> for <hi>Giles Calvert.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156618:2"/>
+            <pb facs="tcp:156618:2"/>
+            <head>NAPIERS NARRATION: OR An EPITOME of his BOOKE on the REVELATION.</head>
+            <sp>
+               <speaker>ROLLOCK.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell Sir, ſith it hath pleaſed our Lord JESUS CHRIST to reveale unto you many <hi>Myſteries</hi> contained in the <hi>Revela<g ref="char:EOLhyphen"/>tion</hi> of Saint <hi>John;</hi> I beſeech you be plea<g ref="char:EOLhyphen"/>ſed to open ſome of them to me: and firſt I d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſire to know what is meant by the foure Beaſts men<g ref="char:EOLhyphen"/>tioned, <hi>Chap.</hi> 4.6.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>The foure Beaſts are the foure <hi>Evangeliſts,</hi> as it is evident; in that the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aces which the Text ſaith thoſe foure Beaſts had, and the beginnings or <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> foure <hi>Evangeliſts</hi> Goſpels are alike; as for Exa<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:156618:3"/>
+               <p>The Text ſaith the firſt Beaſt had a face like a man; ſo <hi>Mathew</hi> who firſt of all wrot, and that in <hi>Hebrew,</hi> be<g ref="char:EOLhyphen"/>gins his firſt face or leafe, at the genealogie of <hi>Chriſt,</hi> as he is Man.</p>
+               <p>The ſecond beaſt is ſaid to have a face like a Lyon: ſo <hi>Marke,</hi> who was the ſecond that wrote, begins his firſt face or leafe at the voyce, crying like a roaring Lyon in the Wilderneſſe, <hi>Prepare the way of the Lord.</hi>
+               </p>
+               <p>The third Beaſt is ſaid to have a face like a Bullock; ſo <hi>Luke</hi> was the third that wrot, beginneth his firſt face or leafe at <hi>Zacharias,</hi> offering incenſe as it were a Bul<g ref="char:EOLhyphen"/>lock at the <hi>Altar.</hi>
+               </p>
+               <p>The fourth Beaſt is ſaid to be like a flying Eagle; ſo <hi>John</hi> that wrot the fourth <hi>Evangell</hi> begins his firſt face at the high and divine eſſence of <hi>Chriſts</hi> God-head flying ſo high in his Stile, that he is compared to an Eagle.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>Well Sir, you have ſatisfied me in this; where<g ref="char:EOLhyphen"/>fore in the next place, I pray tell me what is meant by the opening of the ſeven Seales mentioned <hi>Revel,</hi> 6.</p>
+            </sp>
+            <sp>
+               <speaker>Nap,</speaker>
+               <p>The opening of every Seale muſt continue the ſpace of ſeaven years, and that becauſe of removing and gining ſeven yeares to every ſeale, you ſhall finde the effect of every Seale to bee performed within the ſeven yeares of that ſeale; and ſo the Harmony to be perfect betwixt thoſe Seales and the juſt Hiſtory.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And when did the firſt Seale begin to be opened?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>This behooved onely to begin at that time that <hi>Chriſt</hi> was baptiſed and began to preach and o<g ref="char:EOLhyphen"/>pen up the ſealed doctrine of our Salvation which was in the end of the 29<hi rend="sup">th</hi>. yeare of the age of <hi>Chriſt,</hi> and a<g ref="char:EOLhyphen"/>bout the beginning of his thirtieth yeare, as <hi>Luke</hi> te<g ref="char:EOLhyphen"/>ſtifieth.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>Well then Sir, I pray you proceed to ſhew the
+<pb facs="tcp:156618:3"/>harmony betwixt the Text and the Hiſtory, that ſo ac<g ref="char:EOLhyphen"/>cording to your ſaying, we may ſee the effect of every Seale to be performed within the ſpace of every ſeven yeares.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>For the clearing of this, I pray take notice, that the preciſe time of the foure <hi>Evangeliſts</hi> writing, and the occaſion why they did write agreeth with the Hiſtory and time of the foure firſt Seales.</p>
+               <p>As for example, when the word of God paſſed out on the white horſe in the time of the firſt ſeale, betwixt the yeare of <hi>Chriſt</hi> 29. and 36. then ſaith the Text, one of the foure Beaſts ſaid come and ſee; that is <hi>Mathew</hi> the Apoſtle, who at that time wrot the firſt <hi>Evangell</hi> in He<g ref="char:EOLhyphen"/>brew, exhibiting the ſame to be ſeene of the <hi>Iewes,</hi> ex<g ref="char:EOLhyphen"/>presſly for the converſion of them; and as the Text ſaith, he that ſate on the white horſe had a bow and a Crowne given him and he went forth conquering that he might overcome: even ſo at that time <hi>Chriſt</hi> by his doctrine, Miracles death and victory over death ſo touched and moved the hearts of all the faithfull; that ſodainly hee with his diſciples got the victory over all the world.</p>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he in the ſecond ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ale betwixt the yeare 36. and 43. the Text ſaith the ſecond Beaſt ſaid, Come and ſee, that is <hi>Marke</hi> the Apoſtle ſet out the ſecond <hi>Evangel</hi> to bee ſeene of all men, for the comfort of the afflicted Church; for as the Text ſaith, there was power given to him that ſate on the red horſe to take peace from the earth, and that they ſhould kill one another; ſo within the ſpace of theſe ſecond ſeven yeares Saint <hi>Sephen</hi> ſuffered Martyrdome for <hi>Chriſts</hi> ſake: and <hi>Iames</hi> the brother of <hi>John</hi> likewiſe was beheaded.</p>
+               <p>Then in the third ſeale betwixt the 43. and 50. yeare of <hi>Chriſt</hi> the third Beaſt ſaid, Come an ſee, and that was
+<pb facs="tcp:156618:4"/>
+                  <hi>Luke</hi> whoſe <hi>Evangel</hi> came to light at that time, and as the Text makes mention of a Famine, even ſo was there one at that time, whereof <hi>Agabus</hi> prophecied, <hi>Acts</hi> 11. and <hi>Luke</hi> in his Booke of the <hi>Acts</hi> maketh mention. In this dearth the buſhell of Wheat was ſold for five times the accuſtomed price, and the buſhell of barly for three, as teſtifieth <hi>Suetonius,</hi> and <hi>Dion.</hi>
+               </p>
+               <p>Then in the fourth ſeven yeares betwixt the yeare of <hi>Chriſt</hi> 50. and 57. the fourth Beaſt ſaid, Come and ſee; and that was the Apoſtle <hi>Iohn,</hi> who at that time wrot the fourth <hi>Evangelion;</hi> for as the Text ſaith, His name that ſate on the pale Horſe was death, and hell follow<g ref="char:EOLhyphen"/>ed after him; even ſo at that time were there certaine Heretiques aroſe, as <hi>Cerinthus, Nicolaus</hi> and <hi>Ebion,</hi> who held deadly Hereſies againſt the Divinitie of <hi>Chriſt;</hi> whereupon in the time of theſe fourth ſeaven yeares <hi>John</hi> wrot the fourth <hi>Evangel,</hi> and publiſhed it, begin<g ref="char:EOLhyphen"/>ning at the deſcription of <hi>Chriſts</hi> Divinity, expreſly a<g ref="char:EOLhyphen"/>gainſt thoſe Hereticks.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>As you have ſhewed the effect of the foure for<g ref="char:EOLhyphen"/>mer ſeven ſeales to be performed in the foure firſt ſea<g ref="char:EOLhyphen"/>ven yeares; ſo I pray proceed to doe the like of the three latter.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>Then in the fifth ſeaven yeares, even the yeare of <hi>Chriſt</hi> 57. (as the Text ſaith) there was ſeene under the Altar the ſoules of them that were killed for the word of God, and for the teſtimony which they main<g ref="char:EOLhyphen"/>tained, even ſo in that very yeare aroſe the Tyrant <hi>Ne<g ref="char:EOLhyphen"/>ro,</hi> on whoſe bloody ſeate, the blood of the Saints cry<g ref="char:EOLhyphen"/>up to the heavens to God to revenge their blood.</p>
+               <p>Then in the ſixt ſeaven yeares as the Text ſaith, there was a great earth-quake, and the Sun was black as ſack<g ref="char:EOLhyphen"/>cloth
+<pb facs="tcp:156618:4"/>of haire, and the Moon was like blood; and even ſo after the yeare of <hi>Chriſt</hi> 64. a great change and defecti<g ref="char:EOLhyphen"/>on came in all eſtates of the Roman Empire, for now <hi>Nero</hi> raiſed great perſecutions againſt the true ſpiritu<g ref="char:EOLhyphen"/>all Profeſſors, to have utterly darkned and extinguiſhed the light of the Goſpell; ſo that the true Church of God was forced to lurk in ſecret, for the revenge wher<g ref="char:EOLhyphen"/>of, God moved the Kingdomes of <hi>France, Spaine,</hi> and Ile of <hi>Brittaine</hi> to Revolt from this Tyrant.</p>
+               <p>Then in the ſeaventh ſeaven yeares which was be<g ref="char:EOLhyphen"/>twixt the yeare of <hi>Chriſt</hi> 70. and 77. the Text ſaith, At the opening of this ſeale, there was ſilence in heaven a<g ref="char:EOLhyphen"/>bout halfe an hower; even ſo at that time Gods Church had peace a little while.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>Well Sir, now in the next place tell me what you underſtand concerning the ſeven <hi>Trumpets</hi> mentio<g ref="char:EOLhyphen"/>ned in the eighth and 9. Chapter?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>I underſtand thoſe ſeaven <hi>Trumpets</hi> mentioned in thoſe Chapters, and the ſeaven Vials mentioned in the 16. Chapter to be all one.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>How doth that appeare?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>It appeareth to bee ſo in that they are both of them the ſeaven laſt plagues, as alſo in that they agree in their principall termes, the ſecond <hi>Trumpet</hi> with the ſecond <hi>Viall,</hi> the third <hi>Trumpet</hi> with the third <hi>Viall,</hi> and ſo that thereby wee may aſſuredly conclude that both thoſe <hi>Trumpets,</hi> with thoſe <hi>Vials,</hi> and alſo the reſt of the <hi>Trumpets</hi> with the reſt of the <hi>Vials</hi> reſpective in purpoſe, meaning, time, and in all other circumſtances, to be one and the ſelfe ſame thing.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And when did the ſeaven <hi>Trumpets</hi> or ſeaven <hi>Vi<g ref="char:EOLhyphen"/>als</hi> begin?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>The laſt of the ſeven ſeales, and the firſt of the
+<pb facs="tcp:156618:5"/>ſeaven <hi>Trumpets</hi> or <hi>Vials</hi> begin both at once in <hi>An.</hi> 71.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>How doth that appeare?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>This appeareth evidently for even by the Text, Chap. 8. the ſeaventh Seale being opened that very hower the ſeaven Angels received their <hi>Trumpets</hi> to blow; for having ſaid in the firſt verſe, and when hee had opened the ſeaventh ſeale there was ſilence in Hea<g ref="char:EOLhyphen"/>ven about halfe on houre, he ſubjoyneth immediately, (verſe 2.) <hi>And I ſaw the ſeaven Angels, &amp;c. receive their ſeaven trumpets:</hi> and further, after he hath ſhewed <hi>verſe</hi> 5. how <hi>Chriſt</hi> powred out the fiery coales of his wrath in revenge of the blood of his Saints, which doubtleſſe was upon Ieruſalem which ſhed it, incontinent he ſub<g ref="char:EOLhyphen"/>joyneth <hi>verſe</hi> 6, and 7. that then the ſeaven Angels pre<g ref="char:EOLhyphen"/>pared themſelves to blow, and the firſt blew his Trum<g ref="char:EOLhyphen"/>pet, &amp;c, ſo therefore juſtly at this deſtruction of Ieruſa<g ref="char:EOLhyphen"/>lem in <hi>Anno Chriſti</hi> 71. make we both the laſt Seale and the firſt Trumpet or Viall to begin.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And how many yeares doth every Trumpet or Viall containe?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>Every Trumpet or Viall containeth the ſpace of 245. yeares, which is the juſt ſpace of 5. Jubilees, and that this 71. yeare of <hi>Chriſt,</hi> and conſequently the firſt yeare of every the other Trumpet or Viall was Jubilee, you may conſider by the diſcourſe of <hi>Joſephus Scaliger de emendat temporum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>But Sir, I pray tell me what you conceive theſe ſeaven Trumpets or ſeaven Vials doe ſignifie?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>I doe conceive them to ſignifie the ſeaven Ages that were then to come to the worlds end; and I am the more confirmed to believe they do ſo, for that I find in Hiſtories that great mutations of Empires fol owed the end of theſe 245. yeares one after another, as for
+<pb facs="tcp:156618:5"/>example: In the yeare of <hi>Chriſt</hi> 71. <hi>Jeruſalem</hi> was deſtroyed by <hi>Titus</hi> and <hi>Veſpaſian:</hi> this was the yeare that <hi>Jeſus Chriſt</hi> procured the revenge of his blood and the blood of his Saints upon the Synagogue of the <hi>Iewes.</hi>
+               </p>
+               <p>Secondly, 245. yeares after, which was in the yeare 316. <hi>Conſtantine</hi> the Emperour of <hi>Rome</hi> tranſported the Imperiall Seat from Rome to Conſtantinople, and in Rome Pope <hi>Silveſter</hi> began the Papiſticall Kingdome, and Italy was left as a prey to the <hi>Goths</hi> and <hi>Vandals</hi> who deſtroyed Rome and ſubdued all Italy, ſlaying and ſpoyling great and ſmall, even every third man.</p>
+               <p>Thirdly, 245. yeares after, that is, in <hi>Anno</hi> 561. or therabouts, <hi>Totila</hi> King of <hi>Goths</hi> burned <hi>Rome</hi> and uſur<g ref="char:EOLhyphen"/>ped the Dominion thereof.</p>
+               <p>Fourthly, 245. yeares after, that is in <hi>Anno</hi> 806. <hi>Char<g ref="char:EOLhyphen"/>lemaigne</hi> received the new Empire of <hi>Germanes</hi> and <hi>Romanes.</hi>
+               </p>
+               <p>Fiftly, 245. yeares after, that is in <hi>Anno</hi> 1051. <hi>Zadok</hi> began the firſt dominion of the <hi>Turkes.</hi>
+               </p>
+               <p>Sixthly, 245. yeares after, that is in the yeare 1246. <hi>Otoman</hi> began the firſt Empire of the foure Nations <hi>Ma<g ref="char:EOLhyphen"/>hometans.</hi>
+               </p>
+               <p n="7">7. Laſtly, 245. yeares after, that is in the yeare 1541. aroſe our true Profeſſors againſt the Kingdome of An<g ref="char:EOLhyphen"/>tichriſt; ſo then for concluſion you ſee that every <hi>Trum<g ref="char:EOLhyphen"/>pet</hi> or <hi>Viall</hi> endureth 245. yeares.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>Then Sir, it ſeemeth by this account that this ſeaventh Trumpet or Viall which we are now under, is not to end till the yeare of <hi>Chriſt</hi> 1786. ſhall the world continue ſo long thinke you?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>No, I doe not think that the World ſhall con<g ref="char:EOLhyphen"/>tinue ſo long, becauſe it is ſaid, <hi>Math.</hi> 24.22. that for the Elects ſake the time ſhall be ſhortened.</p>
+            </sp>
+            <pb facs="tcp:156618:6"/>
+            <sp>
+               <speaker>Rol</speaker>
+               <p>How long doe you thinke the World ſhall con<g ref="char:EOLhyphen"/>tinue; or can you conjecture when the day of Judgement ſhall be?</p>
+            </sp>
+            <sp>
+               <speaker>Nap</speaker>
+               <p>Although it bee ſaid in <hi>Mark</hi> 13.32. that the day or <hi>Judgement</hi> and houre therof none doth know but the Father onely; yet let none be ſo baſe of judgement as to conclude thereby, that the yeare or age thereof is unknowne to <hi>Chriſt,</hi> or unable to be knowne any wayes to his ſervants; wherefore I tell you it appeares to me that betwixt the yeare of <hi>Chriſt</hi> 1688. and 1700. the ſaid latter day ſhall fall.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>I pray<g ref="char:punc">▪</g> Sir let me heare your grounds for this your conjecture.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>In the 14. of the <hi>Revelation</hi> there is mention made of ſeaven Angels, which are all one with the ſea<g ref="char:EOLhyphen"/>ven Thunders mentioned in the 10 Chapter; and eve<g ref="char:EOLhyphen"/>ry one of the firſt three thundring Angels (as I may call them) containe a Jubilee, and then the foure laſt all at once compleateth the day of <hi>Judgement,</hi> by which it ap<g ref="char:EOLhyphen"/>peares to me that the day of <hi>Judgement</hi> ſhall fall about that time.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>But I pray you Sir ſpeake more particularly of theſe things, and firſt ſhew how it appeares that the ſea<g ref="char:EOLhyphen"/>ven Angels and the ſeaven thunders are all one.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>If wee doe but confer the tokens or the ſeaven Angels with the tokens of the ſeaven thunders, we ſhall find them to agree; for firſt in Ch. 10. at the comming in of the 7. thunders Chriſt doth offer the open book of his truth; ſo Ch. 14. the firſt of the 7. Angels bringeth the everlaſting Goſpel, and openly preacheth out the ſame. Secondly in Ch. 10. Chriſt by the mighty voyce of his Word as a roaring Lyon in the mouthes of his Preachers proclaimed the truth, then came the 7. thun<g ref="char:EOLhyphen"/>ders:
+<pb facs="tcp:156618:6"/>ſo alſo Ch. 14. the voyce of Gods heavenly Elect is here as a mighty ſouund of Waters, and as thunder; then came the ſeaven Angels; ſo that you ſee in reſpect of the harmony betwixt them wee may conclude them both to be one.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>Well Sir, and how doth it appeare that every one of the firſt 3. thundring Angels containe a Jubilee?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>After the Cuſtome both of the Levits and Pro<g ref="char:EOLhyphen"/>phets, who divide all great dates by Iubilees, and ſmall dates by weeks of yeares, wee judge moſt apparantly this laſt Age to bee divided by Iubilees, and ſo every thunder or Angel of theſe 3. that are ſaid in the Text Ch. 14. v. 6.8.9. to pretend Gods great Harveſt to con<g ref="char:EOLhyphen"/>taine a Iubilee, which is 49. yeares.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And how doth it appeare that the foure laſt thundring Angels all at once compleateth the day of Iudgement?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>In the 14. Chapter, verſe 14. and 16. it is ſaid that the fourth thundring Angel which is <hi>Chriſt</hi> him<g ref="char:EOLhyphen"/>ſelfe, enters actually into his great Harveſt, to gather up his Elect at the warning of the fifth Angel, even Gods holy ſpirit <hi>ver.</hi> 15. like as contrarily the ſixt thundring Angel executor of Gods fierce wrath, mentioned <hi>verſ.</hi> 17. and 19. is admoniſhed and warned by the ſeventh Angel commander thereof to cut downe, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Vines of the earth in the winepreſſe of Gods <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſo by theſe foure laſt Angels or Thunders, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Chriſt</hi> himſelf and by his whole miniſtring <hi>Angel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the figure of theſe laſt Angels, all the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Gods harveſt and latter Iudgement is accompliſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And when did the firſt of the three firſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Iubile begin?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>Even as I ſaid, before the laſt of the ſeven ſ<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <pb facs="tcp:156618:7"/>and the firſt of the ſeven Trumpets began both at once in the yeare of <hi>Chriſt</hi> 71. ſo in like manner the laſt of the ſeven Trumpets, and the firſt of the ſeven thunders began both at once, in the yeare of <hi>Chriſt,</hi> 1541.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>What moves you to think it beginneth that yeare?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>In the 11. Ch. v. 15. it is ſaid, that at the blaſt of the 7<hi rend="sup">th</hi>. Trumpet, the Kingdome of the World becom<g ref="char:EOLhyphen"/>meth <hi>Chriſt</hi> his Kingdome, that is then the Kingdome of <hi>Antichriſt</hi> &amp; all other prophane Kingdoms ſhall fall, and <hi>Chriſt</hi> his Kingdom ſhall be ſpred and inlarged over all; and this can no other way come to paſſe, then by the preaching of the Evangel, which was of new opened up and preached at the comming of the firſt Angel, whom the Text ſaith to have an everlaſting Goſpel to preach unto them that dwell upon the earth, which Angel, as I ſaid before, is manifeſt to be the firſt of the ſeven thun<g ref="char:EOLhyphen"/>ders; therfore it followeth conſequently that the new reſtoring of the Evangell, the ſeventh trumpet or Viall, and the firſt thunder, or thundring Angel come all at once even in <hi>Anno Chriſti,</hi> 1541. About which yeare God ſtirred up openly his firſt Miniſters and ſervants, <hi>Luther, Calvin, Melancthon</hi> and others, <hi>ver.</hi> 6.7. to preach out during all this Iubile, the perfect verity of the Goſ<g ref="char:EOLhyphen"/>pel publikely, which before was hid and obſcured under the Antichriſtian Reigne; ſo that now the true Church lurketh no more, but Gods truth to all the world is made apparant by theſe Miniſters teaching them ac<g ref="char:EOLhyphen"/>cording to the Text, to feare God onely, and leaving all other ſuperſtitious worſhipping to give glory onely unto him.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And when did this firſt of theſe 3. Iubiles end.</p>
+            </sp>
+            <sp>
+               <speaker>Na.</speaker>
+               <p>If you reckon, you ſhall eaſily find that it ended in <hi>Ann. Chriſti.</hi> 1590. And then came the ſecond of the
+<pb facs="tcp:156618:7"/>ſeven thundring Angels,<note place="margin">
+                     <hi>ver.</hi> 8.</note> declaring even preſently the horrible fall and decay to become of that figurative <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> and great Antichriſtian City, about which time, to wit, the end of the firſt Iubile, and beginning of the ſecond, God hath ſhewed marvellous indices that the Empire of Rome and Papiſticall Kingdome ſhall ſhort<g ref="char:EOLhyphen"/>ly fall, the Antichriſtian and Spaniſh Fleet is deſtroy'd, the late King of <hi>France,</hi> Duke of <hi>Guize</hi> and his Brother, Papiſts and Committers of the Pariſian Maſſacre, all murthered by other, a Proteſtant now made King of France; ſo that before the end of this Iubile (God wil<g ref="char:EOLhyphen"/>ling) Rome and the whole Papiſticall Kingdome there<g ref="char:EOLhyphen"/>of ſhall be ruined.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And what yeare ſhall this ſecond <hi>Iubile</hi> end?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>In the yeare, 1639.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>And what followes upon that?</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>After that comes the third Iubile, or the third thundring and threatning Meſſengers openly and loud<g ref="char:EOLhyphen"/>ly threatning, that if any be now that doe worſhip or reverence that <hi>Antichriſtian</hi> Empire, or that receive the old ſuperſtitious marks thereof on their foreheads or on their hands, the ſame ſhall drinke of Gods wrath; ſo that in this third Jubile the Miniſters and Meſſengers of God ſhall (God-willing) have only the latter dregs of that Romiſh ſeat<g ref="char:punc">▪</g> to admoniſh and threaten by open in<g ref="char:EOLhyphen"/>timation, that if any be in whoſe hearts the reverence of that ruined Empire, or if any now be marked with Chriſme or Croſſe on hand or head, he ſhall be tormen<g ref="char:EOLhyphen"/>ted eternally in the fire of Hell.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>Well Sir, now I ſee plainely that if we add to 1639. 49. yeares, then according to your account the day of Iudgement appears to fall about 1688. I had not thought it could have bin ſo plainly proved by <hi>Scripture.</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:156618:8"/>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>I doe aſſure my ſelfe that all the propheſies of the latter day ſhall be knowne, and manifeſted to Gods Church before <hi>Chriſt</hi> come to <hi>Iudgement,</hi> and if we doe conferre all propheſies and propheticall figures there<g ref="char:EOLhyphen"/>of together, wee ſhall find them come ſo neere to that time that verily the matter is wonderfull.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>I pray Sir proceed on to doe it.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>Firſt as touching the Cimball of the Saboth, it is thought by the moſt learned, that the ſix dayes of la<g ref="char:EOLhyphen"/>bour weekly obſerved, doth meane and beare the ſim<g ref="char:EOLhyphen"/>ball of 6000. yeares, that mankind ſhall endure the tra<g ref="char:EOLhyphen"/>vells and cares of this world, and that is confirmed by <hi>Peter,</hi> who ſpeaking of the day of <hi>Iudgement,</hi> noteth that a thouſand yeares ſhall bee as one day in <hi>Gods</hi> ſight, and a day as a thouſand yeares, and ſo conſequently the ſixe dayes of worke to repreſent ſixe thouſand yeares, after the which ſixe thouſand yeares, of worldly cares and travells, then ſhall come our eternall Saboth and reſt in the glory of <hi>Heaven,</hi> ſignified by the ſeaventh dayes reſt, for that truely there is no inſtitution apointed by <hi>God</hi> to <hi>Moſes,</hi> which beſides the civell commodity had not alſo a ſpirituall figure, and ſure it is that no figure agreeth more conſonant with theſe ſixe dayes of work, and ſeventh day of reſt then the preſent miſeries of this world, and eternall Saboth hereafter: ſecondly agree<g ref="char:EOLhyphen"/>able to the former, there is a ſentence of the houſe of <hi>Elias,</hi> reſerved in all Ages bearing theſe words, the world ſhall ſtand ſixe thouſand yeares, and then it ſhall be conſumed with fire, two thouſand yeares voyd or without Law, two thouſand yeares under the Law, and two thouſand yeares ſhall be the dayes of the <hi>Meſsias,</hi> and for our offences which ſhall be manyand great, ſhall theſe yeares lacke which ſhall lack, thus farre ſaith <hi>Eli<g ref="char:EOLhyphen"/>as;</hi>
+                  <pb facs="tcp:156618:8"/>Now the terme of theſe ſixe thouſand yeares, doth expire about the 2000. yeare of <hi>Chriſt,</hi> which terme both by the ſaid ſaying of <hi>Elias,</hi> and by <hi>Chriſts</hi> owne ſay<g ref="char:EOLhyphen"/>ing in <hi>Mathew</hi> appeareth to be ſhortned, and therefore thirdly by <hi>Daniell</hi> wee ſhall aproach neerer that terme, for he in his 12. <hi>chap.</hi> intreating both of the firſt Reſur<g ref="char:EOLhyphen"/>rection, which is the Reſurrection from the Antichriſti<g ref="char:EOLhyphen"/>an errours, and of the ſecond Reſurrection which is the generall reſurrection from the dead, ſuch an <hi>Angell</hi> as afterward appeareth to <hi>Iohn, Rev.</hi> 10. teaching him con<g ref="char:EOLhyphen"/>cerning the latter day, doth here apeare to <hi>Daniel,</hi> ſwear<g ref="char:EOLhyphen"/>ing ſolemly a terme of propheticall dayes to every one of thoſe queſtions doubled of by the Prophet of which the greateſt terme is expreſſed to be 1335 propheticall dayes, which are ſo many yeares, whoſe beginnings are determined in theſe words, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the time that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he daily ſacrifice ſhall ceaſe, and the Abomination pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to deſolation or made deſolate, ſhall be 1290 dayes, bleſ<g ref="char:EOLhyphen"/>ſed is he that awaiteth and abideth to the 1335. day, as if he would ſay, from that time that both the <hi>Iewiſh</hi> day<g ref="char:EOLhyphen"/>ly ſacrifice ſhall utter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ceaſe, and the abominable rites of the <hi>Gentiles</hi> bee aboliſh d to the compleating of the great reſurrection from the Antichriſtian errours, and utter decay of his Kingdome ſhall be 1290. yeares, and then bleſſed ſhall hee bee that abideth and remaineth conſtant in the ſmall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall bee betwixt that and the latter day, which ſhall fall in the 1335. yeare from the taking away of the ſaid <hi>Iewiſh</hi> Ceremonies, and <hi>Gentil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> ſu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions, but ſo it is that theſe were neither actu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly taken away by <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſts</hi> Paſſion, neither in the de<g ref="char:EOLhyphen"/>ſtruction of <hi>Ieruſalem,</hi> nor otherwaies till miraculouſly in the dayes of <hi>Julian</hi> the <hi>Apoſtate. Anno Chriſti</hi> 365. This <hi>Apoſtate</hi> having in deſpite of <hi>Chriſt</hi> ordained the
+<pb facs="tcp:156618:9"/>
+                  <hi>Jewes</hi> to build up, and repaire their Temple of <hi>Ieruſalem</hi> on the one part, and on the other part having ſent his <hi>Legats</hi> to offer ſacrifice in the chiefe <hi>Ethnick</hi> Temple of the <hi>Gentiles</hi> in <hi>Delphos,</hi> and to conſult with that Oracle of <hi>Apollo</hi> there, <hi>God</hi> ſent his <hi>Thunder</hi> from above, and <hi>Earth-quake</hi> from beneath, and thereby overwhelmed both thoſe chiefe Temples about one time ſo utterly, that to this day all the <hi>Iewiſh</hi> daily ſacrifice of the one, and the abominable <hi>Ethnick</hi> ſuperſtitions of the other have ceaſed, and beene put to utter confuſion and deſo<g ref="char:EOLhyphen"/>lation, but if after the opinion of ſome learned men, this <hi>Text</hi> doth meane in the Originall <hi>Hebrew,</hi> not the abomination, to be put in deſolation, but contrarily a deſolating and waſting Abomination, to bee ſet up to<g ref="char:EOLhyphen"/>gether alſo with the taking away the former, and fore<g ref="char:EOLhyphen"/>ſaid daily ſacrifice in this caſe apearing by the ſame date is not the leſſe eſtabliſhed, for who was a more horrible and waſting Abomination then was the aforeſaid <hi>Iuli<g ref="char:EOLhyphen"/>an</hi> that bloud-thirſty <hi>Apoſtate,</hi> together with his dete<g ref="char:EOLhyphen"/>ſtable Idolatrous Magicall decrees, which publickly he acted and ſet up, to bring Chriſtianiſme to utter deſola<g ref="char:EOLhyphen"/>tion: ſo that howſoever this abomination be expound<g ref="char:EOLhyphen"/>ed, either paſſively to bee made deſolate as the <hi>Gentiles</hi> cheefe abominable, and Idolatrous Oracle of <hi>Apollo</hi> at that time was made deſolate, or actively, that the abo<g ref="char:EOLhyphen"/>mination ſhould make a waſting or deſolation, and that that waſting Abomination ſhould be then erected, as the abominable Tyrant and <hi>Apoſtate Iulian</hi> was promo<g ref="char:EOLhyphen"/>ted Emperour, and his cruell decrees of perſecution at that time ſet out, even alwaies in that very ſame yeare, 365. all the foreſaid Accidents occurred, for in that one yeare, both firſt the foundations of the <hi>Iewiſh</hi> Temple of daily ſacrifice, as ſecondly (in the paſſive ſenſe) the ſaid
+<pb facs="tcp:156618:9"/>Temple of the <hi>Ethnicks</hi> Abominations in <hi>Delphos</hi> were by <hi>Thunder</hi> and <hi>Earthquake</hi> both deſtroyed, as thirdly in the Active ſence, that abominable <hi>Iulian</hi> and his decrees, for deſolating and devouring <hi>Gods</hi> ſervants, were then ſet up; Therefore from this yeare of <hi>Chriſt,</hi> 365. wee are commanded to reckon 1335. yeares, which falls in <hi>Anno</hi> 1700. And then ſaith <hi>Daniel, verſe</hi> the 6. ſhall be the end of all wonders, even the wondrous and great day of the Lord, but yet as this propheſie doth abridge the aforeſaid propheſie of <hi>Elias,</hi> ſo alſo <hi>Chriſts</hi> fore<g ref="char:EOLhyphen"/>ſaid ſaying in <hi>Matthew</hi> that came after this propheſie, doth apparantly abridge ſomewhat of this time, there<g ref="char:EOLhyphen"/>fore as men ſaid before, every thundering <hi>Angell</hi> of three contained 49. yeares and then comes the great day of the Lord, and we proved that the firſt thundering <hi>An<g ref="char:EOLhyphen"/>gell</hi> began in <hi>Anno</hi> 1541. to which add thrice 49. years, which is 147. yeares, and ſo by that account the latter day will fall in <hi>Anno</hi> 1688. wherfore appearingly be<g ref="char:EOLhyphen"/>twixt this 1688. according to the <hi>Revelation,</hi> and the 1700. yeare according to <hi>Daniel,</hi> the ſaid latter day ſhould fall, and for further confirmation thereof, there is a number put in the end of the 14. <hi>Chapter</hi> of the <hi>Reve<g ref="char:EOLhyphen"/>lation,</hi> which appeares to be a date of the latter day, for that <hi>Chapter</hi> altogether ſpeaks of the <hi>Lords</hi> great har<g ref="char:EOLhyphen"/>veſt and latter <hi>Iudgement,</hi> there ſaith <hi>Iohn</hi> the blood came out of the <hi>Winepreſſe</hi> unto the horſe bridles, by the ſpace of 1600. ſtades or courſes, as if appearingly he would meane Metaphorically, as <hi>Wine</hi> may bee thought to flow from the Preſſe, or the bloud of ſlaine men in a Field to aſcend to the horſe bridles; ſo eternally ſhall the torment of the wicked aſcend after that a thou<g ref="char:EOLhyphen"/>ſand and ſixe hundred yeares bee accompliſhed, for theſe ſtades agree well to meane yeares, ſeeing a ſtade
+<pb facs="tcp:156618:10"/>is that Race or courſe, that one may bee thought to run with one breath, before he begin to renew his breath a<g ref="char:EOLhyphen"/>gain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, as one yeare is that race or courſe, that the Sunne maketh in a circuit, before he begin to renew his circuit againe, now counting therefore a thouſand and ſixe hundred yeares, from the time that this was written, which was about the 97. yeare of <hi>Chriſt,</hi> as <hi>Euſebius</hi> in his Chronicle ſaith, or in the end of the reigne of <hi>Do<g ref="char:EOLhyphen"/>mitian</hi> as <hi>Freneus</hi> ſaith, which was in <hi>Anno Chriſti</hi> 199. the end of the account ſhall fall about the year of <hi>Chriſt</hi> 1697. or the yeare 1699. which is betwixt the ſaid terme 1688. and 1700. and ſo the difference of theſe dates is but ſmall, and if the time of Hiſtories were ſurely written, and obſerved, it may be thought that the diffe<g ref="char:EOLhyphen"/>rence would be either leſſe, or utterly nothing at all.</p>
+            </sp>
+            <sp>
+               <speaker>]<hi>Rol.</hi>
+               </speaker>
+               <p>Well Sir, you have fully ſatisfied me concern<g ref="char:EOLhyphen"/>ing this point, as alſo concerning the ruine of <hi>Antichriſt,</hi> yet one thing more I deſire to be further ſatisfied in be<g ref="char:EOLhyphen"/>fore we part, and that is, how it is manifeſt that the <hi>Pope</hi> is that <hi>Antichriſt</hi> ſpoken of in Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>]<hi>Nap.</hi>
+               </speaker>
+               <p>That is manifeſt firſt, in that all the notes and tokens of <hi>Antichriſt</hi> given us by the Scriptures, are moſt evident properties of the <hi>Pope,</hi> ſecondly by the notable contrarieties betweene <hi>Chriſt</hi> and the <hi>Pope.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>]<hi>Rol.</hi>
+               </speaker>
+               <p>Firſt then I pray you, ſhew how the notes of <hi>Antichriſt</hi> in Scripture, and properties of the <hi>Pope</hi> agree together?</p>
+            </sp>
+            <sp>
+               <speaker>]<hi>Nap.</hi>
+               </speaker>
+               <p>Firſt the Apoſtle ſaith, 2 <hi>Theſſ.</hi> 2. <hi>Antichriſt</hi> muſt be the head of that Apoſtacie, or falling away from the truth, and it is well knowne, that <hi>Chryſoſtome, Auguſtine, Theodoret, Theophalect,</hi> and <hi>Oecumenius,</hi> by that Apoſtacy underſtand <hi>Antichriſt,</hi> yea <hi>Bellarmine</hi> himſelfe affirmeth that by Apoſtacie in that place, <hi>Antichriſt</hi> himſelfe may be fitly underſtood.</p>
+               <pb facs="tcp:156618:10"/>
+               <p>Secondly the ſame Apoſtle in the ſame place ſaith that <hi>Antichriſt</hi> ſhall exalt himſelfe againſt all that is cal<g ref="char:EOLhyphen"/>led <hi>God,</hi> and ſo doth the Pope ſtile himſelfe <hi>God,</hi> and cauſeth Emperors and Kings to kiſſe his feet; yet Pope <hi>Alexander</hi> the third trode with his feet upon the head of <hi>Frederick Barbaroſſa.</hi>
+               </p>
+               <p>Thirdly, in the ſame Chapter it is ſaid, that <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> shall come with all deceivableneſſe of unrighte<g ref="char:EOLhyphen"/>ouſneſſe, therefore Antichriſtianiſme is called the My<g ref="char:EOLhyphen"/>ſtery of iniquity; ſo that the impietie of Antichriſt is myſticall, cloaked under the name of godlineſſe; and as in the Popes Myter was wont; ſo alſo in the whore of <hi>Babylons</hi> forehead is written a Myſtery, <hi>Rev.</hi> 17.5. op<g ref="char:EOLhyphen"/>pugning <hi>Chriſt</hi> and his truth, under the outward shew and profeſſion of Chriſtian Religion, he muſt be called moſt holy when indeed he is moſt wicked, he cals him<g ref="char:EOLhyphen"/>ſelfe the ſervant of ſervants, when in truth hee makes himſelfe the King of Kings.</p>
+               <p>Fourthly, it is ſaid 1 <hi>Tim</hi> 4.3. that the <hi>Antichriſt</hi> ſpea<g ref="char:EOLhyphen"/>king lies through hypocriſie ſhall forbid to marry, and ſhall command abſtinence from certaine meats: and ſo doth the Pope under hypocriſie and lying pretext of chaſtitie and abſtinence forbid all his Clergie to marry and to eat fleſh in Lent, or on Fridayes.</p>
+               <p>Fifthly, it is ſaid 2 <hi>Pet.</hi> 2. that <hi>Antichriſt</hi> ſhall denie the Lord that bought them, and through covetouſneſſe ſhall with faigned words make merchandiz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Chriſti<g ref="char:EOLhyphen"/>ans, yea and ſhall ſell their ſoules, as it is ſaid <hi>Revel.</hi> 18.13. ſo hath the Popes Clergie brought in Pardons and Indulgences whereby they promiſe remiſſion of ſinnes and the Kingdome of Heaven privily and in effect ther<g ref="char:EOLhyphen"/>by denying Chriſt to be their onely Redeemer, and ſo have they through covetouſneſſe under faigned pretext
+<pb facs="tcp:156618:11"/>of Religion made merchandize of poore Chriſtians, ſel<g ref="char:EOLhyphen"/>ling by ſuch divellish wayes even their ſoules to the Divell.</p>
+               <p>Sixthly, the Antichriſts comming, ſaith <hi>Paul,</hi> is by the comming of Sathan, with all power and ſignes, and lying wonders in all deceivableneſſe. So hath the Pope advanced his credit in deceiving the ſimple ſort by his faigned fables, and alleadged Miracles of the Legen<g ref="char:EOLhyphen"/>dary, and by ſuch juglings as they uſe; and no marvell, when as <hi>Platina</hi> and others affirme 22. Popes came to the Popedome being abominable <hi>Necromancers.</hi> And thus have I ſhewed you how the notes of <hi>Antichriſt</hi> in Scripture, and properties of the Pope doe agree toge<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>I pray likewiſe shew the contrarieties betwixt Chriſt and the Pope.</p>
+               <p>Firſt <hi>Chriſt</hi> came ſo ſoberly and meekly that he would not have broken a bruiſed Reed, but the Pope came proudly overwhelming the moſt mighty Empires, hee changed the Kingdome of <hi>France</hi> from <hi>Chilperick</hi> the lawfull King to <hi>Pipin</hi> the Popes Confederate.</p>
+               <p>Secondly, Chriſt would not worship the Divell to gaine all the Kingdomes of the world; but 22. Popes bound themſelves ſlaves to the Divell for ever to bee made <hi>Popes,</hi> as teſtifieth <hi>Platina</hi> and other unſuſpected Writers.</p>
+               <p>Thirdly, CHRIST caſt the Merchandize out of the Temple: But the Pope eſtabliſheth the Merchandize in the Temple to ſell his Pardons, Maſſes and Indul<g ref="char:EOLhyphen"/>gences.</p>
+               <p>Fourthly, <hi>Chriſt</hi> waſhed his poore Diſciples feet; but the Pope maketh the moſt mightie Emperours to kiſſe his feete.</p>
+               <pb facs="tcp:156618:11"/>
+               <p>Fifthly, <hi>Chriſt</hi> honoured Marriage at <hi>Cana</hi> in <hi>Ga<g ref="char:EOLhyphen"/>lile,</hi> had ſome married <hi>Apoſtles,</hi> and commanded them to marry that could not live chaſt; but the Pope forbid<g ref="char:EOLhyphen"/>deth his Clergie to marry though they were never ſo filthy Whoremongers.</p>
+               <p>Sixthly, <hi>Chriſt</hi> forbiddeth Whordome: But the Popes were ſeven of them Whore-Mungers, and erecters of Brothel houſes, and Pope <hi>Joane</hi> was a Whore, and died with child in open Proceſſion; and theſe are named in their owne Hiſtories.</p>
+               <p>Seaventhly, <hi>Chriſt</hi> paid Tribute to <hi>Caeſar;</hi> But the Pope bereft the Emperour both of Lands and Tributes within Italy.</p>
+               <p>Eighthly, <hi>Chriſt</hi> had not ſo much money of his owne as to pay his Tribute: But the Popes propriety is ſaid to bee eighteene thouſand Duckets every day. And Pope <hi>John</hi> of <hi>Anjou</hi> left in ſtore 25. Millions of gold.</p>
+               <p n="9">9. <hi>Chriſt</hi> miſliketh the obſerving of dayes, moneths, and yeares: But the Pope commandeth to obſerve his Feſtivals and Holidayes.</p>
+               <p>Tenthly, <hi>Chriſt</hi> is the onely Mediator betwixt God and Man: But the Pope makes and canoniſeth his Saints whom he cals Mediators betwixt God and us.</p>
+               <p>Eleventhly, <hi>Chriſt</hi> had not whereon to repoſe or reſt his head: But the Pope hath ſtore of Townes, Caſtles, and Princely Pallaces.</p>
+               <p>Twelfthly, <hi>Chriſt</hi> forbids much babbling and vaine repetitions in our Prayers: But the Pope commandeth to repeat over your Prayers, and to ſay five <hi>Pater No<g ref="char:EOLhyphen"/>ſters,</hi> and five <hi>Ave Mar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a's.</hi>
+               </p>
+               <p>Thirteenthly, <hi>Chriſt</hi> teacheth a Religion wholly in ſpirit, and void of all externall Ceremonies, except his two Sacramentall Seales: But the Pope hath con<g ref="char:EOLhyphen"/>ſtituted
+<pb facs="tcp:156618:12"/>a Religion conſiſting wholly in bodily Rites, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd full of externall Superſtitions.</p>
+               <p>Fourteenthly, <hi>Chriſt</hi> was crowned with a Crowne of Thornes: But the Pope is crowned with a threefold imperiall Crowne.</p>
+               <p>Fifteenthly, to conclude, <hi>Chriſt</hi> ſhed his blood once, that we might reigne ſpiritually: But the Pope ſheds our blood dayly, that he might reigne temporally.</p>
+            </sp>
+            <sp>
+               <speaker>Rol.</speaker>
+               <p>There be ſome other things which I could de<g ref="char:EOLhyphen"/>ſire to be reſolved in; but at this preſent time will not permit: and therefore giving you many thankes for what you have done, I take my leave of you for this time.</p>
+            </sp>
+            <sp>
+               <speaker>Nap.</speaker>
+               <p>The Lord be with you.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156618:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
